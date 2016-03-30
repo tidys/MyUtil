@@ -1,0 +1,4 @@
+{"file":"map.png","frames":{
+"car":{"x":111,"y":1,"w":82,"h":90,"offX":1,"offY":1,"sourceW":88,"sourceH":95},
+"levelBtnBg":{"x":1,"y":1,"w":108,"h":108,"offX":0,"offY":0,"sourceW":108,"sourceH":108},
+"levelBtnBg2":{"x":1,"y":111,"w":108,"h":108,"offX":0,"offY":0,"sourceW":108,"sourceH":108}}}

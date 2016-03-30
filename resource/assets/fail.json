@@ -1,0 +1,4 @@
+{"file":"fail.png","frames":{
+"girl":{"x":630,"y":1,"w":250,"h":534,"offX":2,"offY":2,"sourceW":258,"sourceH":541},
+"panel":{"x":1,"y":1,"w":627,"h":457,"offX":0,"offY":0,"sourceW":627,"sourceH":457},
+"txt_gameover":{"x":1,"y":460,"w":486,"h":75,"offX":2,"offY":2,"sourceW":493,"sourceH":83}}}

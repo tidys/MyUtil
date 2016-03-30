@@ -1,0 +1,10 @@
+{"file":"win.png","frames":{
+"btn_home":{"x":182,"y":750,"w":138,"h":137,"offX":6,"offY":7,"sourceW":150,"sourceH":150},
+"btn_replay":{"x":182,"y":611,"w":138,"h":137,"offX":6,"offY":7,"sourceW":150,"sourceH":150},
+"girl":{"x":1,"y":1,"w":346,"h":608,"offX":2,"offY":2,"sourceW":354,"sourceH":616},
+"r1":{"x":349,"y":553,"w":318,"h":504,"offX":0,"offY":0,"sourceW":318,"sourceH":504},
+"r2":{"x":669,"y":553,"w":223,"h":476,"offX":0,"offY":0,"sourceW":223,"sourceH":476},
+"r3":{"x":1,"y":611,"w":179,"h":376,"offX":0,"offY":0,"sourceW":179,"sourceH":376},
+"r4":{"x":349,"y":1,"w":375,"h":550,"offX":0,"offY":0,"sourceW":375,"sourceH":550},
+"r5":{"x":1,"y":1269,"w":301,"h":505,"offX":0,"offY":0,"sourceW":301,"sourceH":505},
+"txt_congratulations":{"x":1,"y":1059,"w":756,"h":208,"offX":0,"offY":0,"sourceW":756,"sourceH":208}}}

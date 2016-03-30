@@ -1,0 +1,7 @@
+{"file":"help.png","frames":{
+"panel":{"x":1,"y":1,"w":771,"h":550,"offX":0,"offY":2,"sourceW":771,"sourceH":552},
+"btn_next":{"x":582,"y":920,"w":129,"h":129,"offX":6,"offY":6,"sourceW":141,"sourceH":141},
+"btn_exit":{"x":543,"y":1219,"w":129,"h":129,"offX":0,"offY":0,"sourceW":132,"sourceH":133},
+"txt_1":{"x":1,"y":553,"w":592,"h":365,"offX":0,"offY":0,"sourceW":592,"sourceH":370},
+"txt_2":{"x":1,"y":920,"w":579,"h":297,"offX":1,"offY":0,"sourceW":580,"sourceH":312},
+"txt_3":{"x":1,"y":1219,"w":540,"h":314,"offX":0,"offY":0,"sourceW":540,"sourceH":321}}}
